@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @gawdam
+- 👋 Hi, I’m Gowdham
 - 👀 I’m interested in Machine Learning and Deep Learning
 - 🌱 I’m currently learning Reinforcement Learning
 - 💞️ I’m looking to collaborate on creating a repository for mythical figures from Greek, Norse mythology
